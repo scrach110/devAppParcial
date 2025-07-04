@@ -4,7 +4,6 @@ dist/
 build/
 *.log
 npm-debug.log*
-.env
 .DS_Store
 .vscode/
 *.tsbuildinfo
